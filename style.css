@@ -1,9 +1,5 @@
-.Name{
-    background:black;
-  }
 body{
   background-color:lightblue;
-  
 }
 h1{
   font-size:38px;
@@ -15,3 +11,16 @@ h1{
 footer.{
   background:black
 }
+
+.Name{
+  text-transform:uppercase;
+}
+.footer{
+  background:black;
+  color:white
+}
+
+p{
+  text-align:center;
+}
+
