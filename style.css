@@ -1,6 +1,17 @@
-body {
-  background-color:#777;
- 
+.Name{
+    background:black;
+  }
+body{
+  background-color:lightblue
+  
 }
 h1{
-  font-size:40px;
+  font-size:38px;
+  color: white;
+  text-align: center;
+  background:black;
+  
+}
+footer.{
+  background:black
+}
